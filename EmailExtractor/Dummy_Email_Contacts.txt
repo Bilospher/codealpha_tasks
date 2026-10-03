@@ -1,0 +1,56 @@
+Dummy Contact List
+==================
+All records in this file are fictional test data.
+
+ID | Name | Email | Email Type | Company | Phone | City
+---|------|-------|------------|---------|-------|-----
+001 | Alex Carter | alex.carter001@gmail.com | Gmail | Northwind Labs | 555-0101 | Seattle
+002 | Bella Morgan | bella.morgan002@gmail.com | Gmail | Bright Path | 555-0102 | Austin
+003 | Caleb Brooks | caleb.brooks003@gmail.com | Gmail | Pine Tree Media | 555-0103 | Denver
+004 | Diana Foster | diana.foster004@gmail.com | Gmail | Blue Harbor | 555-0104 | Boston
+005 | Ethan Reed | ethan.reed005@gmail.com | Gmail | Cedar Works | 555-0105 | Chicago
+006 | Fiona Hayes | fiona.hayes006@gmail.com | Gmail | Maple Systems | 555-0106 | Portland
+007 | Gavin Price | gavin.price007@gmail.com | Gmail | Silverline Group | 555-0107 | Phoenix
+008 | Hazel Ward | hazel.ward008@gmail.com | Gmail | Riverstone Co | 555-0108 | Miami
+009 | Ian Powell | ian.powell009@gmail.com | Gmail | Summit Studio | 555-0109 | Atlanta
+010 | Julia Perry | julia.perry010@gmail.com | Gmail | Oak Street Tech | 555-0110 | Dallas
+011 | Kevin Ross | kevin.ross011@outlook.com | Outlook | Greenfield Works | 555-0111 | Seattle
+012 | Lara James | lara.james012@outlook.com | Outlook | Horizon Design | 555-0112 | Austin
+013 | Mason Bell | mason.bell013@outlook.com | Outlook | Copper Peak | 555-0113 | Denver
+014 | Nina Cole | nina.cole014@outlook.com | Outlook | Willow Creek | 555-0114 | Boston
+015 | Owen Stone | owen.stone015@outlook.com | Outlook | Clearview Labs | 555-0115 | Chicago
+016 | Priya Shah | priya.shah016@outlook.com | Outlook | Atlas Digital | 555-0116 | Portland
+017 | Quinn Gray | quinn.gray017@outlook.com | Outlook | Meadowline | 555-0117 | Phoenix
+018 | Ruby Lane | ruby.lane018@outlook.com | Outlook | Vertex Media | 555-0118 | Miami
+019 | Simon Cruz | simon.cruz019@outlook.com | Outlook | Beacon House | 555-0119 | Atlanta
+020 | Tessa King | tessa.king020@outlook.com | Outlook | Golden Field | 555-0120 | Dallas
+021 | Uma Young | uma.young021@yahoo.com | Yahoo | Westwind Studio | 555-0121 | Seattle
+022 | Victor Wood | victor.wood022@yahoo.com | Yahoo | Red Oak Group | 555-0122 | Austin
+023 | Wendy Long | wendy.long023@yahoo.com | Yahoo | Coastline Co | 555-0123 | Denver
+024 | Xavier Dean | xavier.dean024@yahoo.com | Yahoo | Brightwell | 555-0124 | Boston
+025 | Yara King | yara.king025@yahoo.com | Yahoo | Stonebridge | 555-0125 | Chicago
+026 | Zane Mills | zane.mills026@yahoo.com | Yahoo | Everlake | 555-0126 | Portland
+027 | Ava Hart | ava.hart027@proton.me | Proton | Ember Works | 555-0127 | Phoenix
+028 | Ben Miles | ben.miles028@proton.me | Proton | Trailhead Labs | 555-0128 | Miami
+029 | Cora Wells | cora.wells029@proton.me | Proton | Lantern Studio | 555-0129 | Atlanta
+030 | Drew Grant | drew.grant030@proton.me | Proton | Bluebird Co | 555-0130 | Dallas
+031 | Erin Blake | erin.blake031@northwind.example | Work | Northwind Labs | 555-0131 | Seattle
+032 | Finn Scott | finn.scott032@brightpath.example | Work | Bright Path | 555-0132 | Austin
+033 | Grace Evans | grace.evans033@cedarworks.example | Work | Cedar Works | 555-0133 | Denver
+034 | Hugo Martin | hugo.martin034@maplesystems.example | Work | Maple Systems | 555-0134 | Boston
+035 | Iris Turner | iris.turner035@silverline.example | Work | Silverline Group | 555-0135 | Chicago
+036 | Jack Adams | jack.adams036@riverstone.example | Work | Riverstone Co | 555-0136 | Portland
+037 | Kira Nelson | kira.nelson037@summitstudio.example | Work | Summit Studio | 555-0137 | Phoenix
+038 | Leo Baker | leo.baker038@oakstreet.example | Work | Oak Street Tech | 555-0138 | Miami
+039 | Maya Collins | maya.collins039@horizondesign.example | Work | Horizon Design | 555-0139 | Atlanta
+040 | Noah Mitchell | noah.mitchell040@atlasdigital.example | Work | Atlas Digital | 555-0140 | Dallas
+041 | Olive Perez | olive.perez041@gmail.com | Gmail | Test Contact Group | 555-0141 | Seattle
+042 | Paul Roberts | paul.roberts042@gmail.com | Gmail | Test Contact Group | 555-0142 | Austin
+043 | Queen Flores | queen.flores043@outlook.com | Outlook | Test Contact Group | 555-0143 | Denver
+044 | Riley Morris | riley.morris044@yahoo.com | Yahoo | Test Contact Group | 555-0144 | Boston
+045 | Sara Murphy | sara.murphy045@proton.me | Proton | Test Contact Group | 555-0145 | Chicago
+046 | Theo Cook | theo.cook046@demo.example | Work | Demo Organization | 555-0146 | Portland
+047 | Uma Rogers | uma.rogers047@gmail.com | Gmail | Test Contact Group | 555-0147 | Phoenix
+048 | Wade Morgan | wade.morgan048@outlook.com | Outlook | Test Contact Group | 555-0148 | Miami
+049 | Xena Peterson | xena.peterson049@yahoo.com | Yahoo | Test Contact Group | 555-0149 | Atlanta
+050 | Yusuf Cooper | yusuf.cooper050@demo.example | Work | Demo Organization | 555-0150 | Dallas
